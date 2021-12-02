@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AllowColonVer", "AllowColonVer\AllowColonVer.csproj", "{247EE95E-5142-41D9-AF18-F9D437243058}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "v6_2_3", "v6_2_3\v6_2_3.csproj", "{AE2D6F17-B598-4184-B976-9857B5A635A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{247EE95E-5142-41D9-AF18-F9D437243058}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{247EE95E-5142-41D9-AF18-F9D437243058}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{247EE95E-5142-41D9-AF18-F9D437243058}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{247EE95E-5142-41D9-AF18-F9D437243058}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE2D6F17-B598-4184-B976-9857B5A635A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE2D6F17-B598-4184-B976-9857B5A635A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE2D6F17-B598-4184-B976-9857B5A635A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE2D6F17-B598-4184-B976-9857B5A635A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8EADEEFA-9836-4A27-A6A9-6B5D44FDF42A}
+	EndGlobalSection
+EndGlobal
